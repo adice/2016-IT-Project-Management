@@ -9,11 +9,6 @@
       <th>仓库链接</th>
     </tr>
     <tr>
-      <td>队名</td>
-      <td>XXX（队长）XXX XXX XXX</td>
-      <td>git地址</td>
-    </tr>
-    <tr>
       <td>目不转睛</td>
       <td>刘琪（组长）、丁泽仁 、白晨皓 、李润川 、程子健</td>
       <td>https://github.com/gaya0214/Project_Management.git</td>
